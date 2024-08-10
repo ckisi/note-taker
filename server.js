@@ -15,13 +15,14 @@ app.use('/api', api);
 
 app.use(express.static('public'));
 
-app.get('/', (req, res) => 
-  res.sendFile(path.join(__dirname, '/public/assets/index.html'))
+app.get('/notes', (req, res) => 
+  res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-app.get('/notes', (req, res) => 
-  res.sendFile(path.join(__dirname, '/public/assets/notes.html'))
+app.get('/', (req, res) => 
+  res.sendFile(path.join(__dirname, '/public/index.html'))
 );
+
 
 // starts a server and listens at render PORT or PORT 3001
 app.listen(PORT, () => 
