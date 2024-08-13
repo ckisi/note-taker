@@ -12,7 +12,7 @@ On the home page, click "Get Started" to bring you to the notes page. You can th
 
 ## Screenshots
 ![](./assets/notetakerss1.png)
-![](./assets/notetarkerss2.png)
+![](./assets/notetakerss2.png)
 
 ## Links
 https://note-taker-nfk9.onrender.com/
