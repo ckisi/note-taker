@@ -11,10 +11,12 @@ On the home page, click "Get Started" to bring you to the notes page. You can th
 - Express
 
 ## Screenshots
-
+![](./assets/notetakerss1.png)
+![](./assets/notetarkers2.png)
 
 ## Links
-
+https://note-taker-nfk9.onrender.com/
+https://github.com/ckisi/note-taker
 
 ## Sources
 Xpert Learning Assistant
